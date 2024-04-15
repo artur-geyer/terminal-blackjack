@@ -13,7 +13,6 @@
         "python.linting.enabled": true,
         "python.linting.lintOnSave": true,
         "editor.defaultFormatter": "ms-python.black-formatter",
-        "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
             "source.fixAll": "explicit",
             "source.organizeImports": "explicit"
